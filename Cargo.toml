@@ -1,0 +1,13 @@
+[package]
+name = "nolog-plain"
+version = "0.2.1"
+authors = ["Vadim Glinka <vadgit@yandex.com>"]
+description = "A non-colored version of the simple nolog logger for writing to a file."
+keywords = ["log", "logger", "logging", "simplelog", "simple-log"]
+categories = ["development-tools", "development-tools::debugging", "development-tools::testing", "rust-patterns"]
+repository = "https://github.com/vglinka/nolog-plain"
+readme = "README.md"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
